@@ -11,7 +11,6 @@ const Useref = () =>{
      return(
         <>
           <input type="text" ref={txtname}/>
-          
           <button onClick={handleclick}>click</button>
         </>
 
