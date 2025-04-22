@@ -4,14 +4,14 @@ const Useref = () =>{
 
     var txtname = useRef()
     
-    const handlechange = (demo) => {
+    const handleclick = (demo) => {
         console.log(txtname);
     }
 
      return(
         <>
           <input type="text" ref={txtname}/>
-          <button onClick={handlechange}>click</button>
+          <button onClick={handleclick}>click</button>
         </>
 
      )
