@@ -6,7 +6,6 @@ const Useref = () =>{
     
     const handleclick = (demo) => {
         console.log(txtname);
-        
     }
 
      return(
