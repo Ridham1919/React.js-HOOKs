@@ -10,7 +10,8 @@ const Count = () => {
 
     return (
         <div>
-            <h1>{count}</h1>
+            <h1>
+                {count}</h1>
             <button onClick={handleClick}>Add Count</button>
         </div>
     );
