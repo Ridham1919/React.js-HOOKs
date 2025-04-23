@@ -19,7 +19,7 @@ root.render(
 
     //  <Map/>
 
-    <Count/>
+      
 );
 
 
