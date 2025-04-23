@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import UseState from './Usestate';
 import OnChange from './Onchange';
 import Useref from './Useref';
+import Map from './Map';
 
 
 
@@ -13,7 +14,9 @@ root.render(
 
     //  <OnChange/>
    
-     <Useref/>
+    //  <Useref/>
+
+    <Map/>
 );
 
 
