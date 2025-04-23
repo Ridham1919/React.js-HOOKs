@@ -17,9 +17,9 @@ root.render(
    
     //  <Useref/>
 
-    //  <Map/>
+      <Map/>
 
-      <Count/>
+    //   <Count/>
 );
 
 
