@@ -8,7 +8,7 @@ const Map = () => {
     return (
 
         <>
-            <table border={1} cellPadding={4} cellSpacing={0}>
+            <table border={1} cellPadding={7} cellSpacing={0}>
                 <tr>
                     <th>No</th>
                     <th>Name</th>
