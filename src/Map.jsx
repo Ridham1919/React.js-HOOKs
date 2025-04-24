@@ -6,6 +6,7 @@ const Map = () => {
 
 
     return (
+        
         <>
             <table border={1} cellPadding={7} cellSpacing={0}>
                 <tr>
