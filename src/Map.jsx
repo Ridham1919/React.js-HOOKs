@@ -2,7 +2,7 @@ import React from "react";
 
 const Map = () => {
 
-    var data = [{ "name": "ridham", "age": "16" }, { "name": "admin", "age": "17" }, { "name": "admin", "age": "23" },{ "name": "admin", "age": "18" },{ "name": "admin", "age": "22" },{ "name": "admin", "age": "19" },{ "name": "admin", "age": "20" }]
+    var data = [{ "name": "ridham", "age": "19" }, { "name": "admin", "age": "17" }, { "name": "admin", "age": "23" },{ "name": "admin", "age": "18" },{ "name": "admin", "age": "22" },{ "name": "admin", "age": "19" },{ "name": "admin", "age": "20" }]
 
 
     return (
