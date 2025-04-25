@@ -5,6 +5,7 @@ import OnChange from './Onchange';
 import Useref from './Useref';
 import Map from './Map';
 import Count from './Count';         
+import Memo from './Memo';
 
 
 
@@ -17,9 +18,11 @@ root.render(
    
     //  <Useref/>
 
-      <Map/>
+    //   <Map/>
 
     //  <Count/>
+
+    <Memo/>
 );
 
 
