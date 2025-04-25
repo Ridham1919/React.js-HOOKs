@@ -8,6 +8,7 @@ const Memo = () => {
     var [item, setitem] = useState(0)
     const handleitem = () => {
         setitem(item + 1)
+        
     }
 
     var dmemo = useMemo(function demo() {
