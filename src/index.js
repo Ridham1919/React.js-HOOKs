@@ -24,9 +24,9 @@ root.render(
     //  <Count/>
 
     // <Memo/>
-    <>
-        <Component1 />
-    </>
+    
+    <Component1 />
+
 );
 
 
