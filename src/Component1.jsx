@@ -3,7 +3,7 @@ import Component2 from "./Component2";
 import Context from "./Context";
 
 const Component1 = () => {
-    var str = "Hello2";
+    var str = "Hello100";
     return (
         <>
             <Context.Provider value={str}>
