@@ -25,7 +25,7 @@ root.render(
 
     // <Memo/>
     
-    <Component1 />
+    // <Component1 />
 
 );
 
