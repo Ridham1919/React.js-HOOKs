@@ -7,6 +7,7 @@ const Count = () => {
     const handleClick = () => {
         setCount(count + 1)
     }
+    
     return (
         <div>                                     
             <h2>Count:{count}</h2>
