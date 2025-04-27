@@ -12,6 +12,7 @@ const Memo = () => {
 
     var dmemo = useMemo(function demo() {
         console.log("Hello")
+        
     },[item]);
 
 
