@@ -9,7 +9,6 @@ const Count = () => {
     }
 
     return (
-        
         <div>                                     
             <h2>Count:{count}</h2>
             <button onClick={handleClick}>+</button>
